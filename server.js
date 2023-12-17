@@ -3,9 +3,9 @@ const mysql = require('mysql');
 
 // Establish a connection to your MySQL database
 const db = mysql.createConnection({
-  host: 'adopter-1.ccixfecy4h7f.us-east-1.rds.amazonaws.com',
+  host: "awseb-e-9c3s2ctjxn-stack-awsebrdsdatabase-fvhriff5djtb.cj55bifrbfkz.us-east-1.rds.amazonaws.com",
   user: 'admin',
-  password: 'Yy@2152215',
+  password: 'Ea12345678!',
   database: 'ebdb'
 });
 
