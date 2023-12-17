@@ -1,1 +1,1 @@
-# COMS6156_-GraphQL
+# COMS6156_GraphQL
